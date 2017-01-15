@@ -1,0 +1,39 @@
+Zone AssistiveTouch, an efficient tool for Andriod.
+
+Features:
+-Customizable menu: quick action or opening application
+-Swipe circle to select menu: new experience for large-screen phone gesture control
+-Become transparent smartly: does not disturb the normal screen display
+
+Quick action:
+-Home, Back, Recents key
+-Open Notification-panel
+-Camera
+-Torch
+-Lock screen
+-Screenshot(Android 5.0+)
+-Power dialog(Android 5.0+)
+-Menu key(Root)
+-Clean ram
+-Kill foreground app
+-Force Orientation
+-Launch Assistant
+-App Freezer
+
+Open application:
+-Open previous application
+-Any application you favorite
+-Shortcuts
+
+PRO:
+-Theme: sollid, stoke, corner, background
+-More menus: customize extra 7 menus
+-[Empty] menu
+-Functions: clean ram, kill foreground app
+-Hide in apps
+-App Freezer
+-Create shortcuts of functions in Launcher(Torch, Lock, Clean ram)
+
+Feed back
+- If you like Zone AssistiveTouch, please give us 5 star  
+- If you have any problem with the app, please contact us by email
