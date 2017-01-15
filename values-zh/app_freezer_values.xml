@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="freezer_title">冷冻室</string>
+    <string name="freezer_command_freezeall">冻结全部</string>
+    <string name="freezer_command_freezeall_lockscreen">冻结全部并锁屏</string>
+    <string name="freezer_title_edit">编辑冷冻列表</string>
+    <string name="freezer_guide">此功能需要ROOT权限。\n轻松冻结不常用的App，有效避免其关联唤醒、自启动，有效节省电量和流量，冻结后可以从冷冻室中一键解冻并运行已冻结的App，也可以从悬浮球中快速执行“全部冻结”与“全部冻结并锁屏”。\n点击这里来添加App。</string>
+    <string name="freezer_menu_edit">编辑冷冻列表</string>
+    <string name="freezer_menu_more">更多</string>
+    <string name="freezer_menu_unfreeze_all">全部解冻</string>
+    <string name="freezer_dialog_title_warning">警告</string>
+    <string name="freezer_dialog_message_warning">请务必谨慎冻结系统程序，可能会造成无法开机或系统损坏！</string>
+    
+    <string name="freezer_section_frozen">已冻结</string>
+    <string name="freezer_section_defrosted">未冻结</string>
+    <string name="freezer_action_run_app">运行</string>
+    <string name="freezer_action_remove_from_list">移出冷冻列表</string>
+    <string name="freezer_action_system_detail">查看系统应用详情</string> 
+   
+    <string name="freezer_toast_noapptofreeze">无需冻结</string>
+</resources>

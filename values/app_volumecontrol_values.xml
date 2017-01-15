@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<string name="volume_title">Volume Control</string>
+    
+    
+    <string name="volume_type_ringer">Ringer (Notifications)</string>
+    <string name="volume_type_media">Media (Music, Video, Game, etc)</string>
+    <string name="volume_type_alarm">Alarm</string>
+    <string name="volume_type_incall">In-call Voice</string>
+    
+    <string name="volume_sound_settings">Sound Settings</string>
+    
+</resources>

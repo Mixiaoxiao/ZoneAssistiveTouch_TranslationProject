@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="freezer_title">App Freezer</string>
+    <string name="freezer_command_freezeall">Freeze All</string>
+    <string name="freezer_command_freezeall_lockscreen">Freeze All + Lock Screen</string>
+    <string name="freezer_title_edit">App Freezer Edit</string>
+    <string name="freezer_guide">Require ROOT permission.\nApp Freezer is a tool to freeze and store the apps you rarely used. Frozen apps will be hidden from launcher and won\'t be able to steal your battery or cellular data in background. You can easily launch them from App Freezer.\nClick me to add apps.</string>
+    <string name="freezer_menu_edit">edit list</string>
+    <string name="freezer_menu_more">more</string>
+    <string name="freezer_menu_unfreeze_all">unfreeze all</string>
+    <string name="freezer_dialog_title_warning">WARNING</string>
+    <string name="freezer_dialog_message_warning">Freeze system apps may break your devices. Do at your own risk!!!</string>
+    
+    <string name="freezer_section_frozen">Frozen</string>
+    <string name="freezer_section_defrosted">Defrosted</string>
+    <string name="freezer_action_run_app">Run App</string>
+    <string name="freezer_action_remove_from_list">Remove From List</string>
+    <string name="freezer_action_system_detail">System Detail</string> 
+    
+    <string name="freezer_toast_noapptofreeze">No app to freeze</string>
+   
+</resources>

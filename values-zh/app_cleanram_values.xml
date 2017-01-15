@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cleanram_title">内存清理</string>
+    <string name="cleanram_title_root">强力内存清理(Root)</string>
+    <string name="cleanram_title_whitelist">内存清理白名单</string>
+    <string name="cleanram_failed">清理失败</string>
+</resources>

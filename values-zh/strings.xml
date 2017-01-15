@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zone悬浮球 PRO</string>
+    <string name="zone_accessibilityservice_description">点击右上角开关来启用Zone悬浮球。若悬浮球未正常显示，请在手机的权限管理中允许“悬浮窗(在上层显示)”权限。\n\n【特别提示】\n此开关和其他系统设置一样仅由用户控制，一个正常的安卓系统不会轻易改动用户的设置。\n\n若出现此开关被系统异常关闭的情况可参考如下方法：\n①在手机管家/安全中心的权限管理中允许Zone悬浮球自启动\n②在任务管理器中给Zone悬浮球加锁\n③联系手机生产商解决</string>
+    <string name="feedback_hint">关注微信公众号“MixiaoxiaoTeam”，与我们直接交流~</string>
+    <string name="title_activity_lock_screen">Zone锁屏</string>
+    <string name="title_activity_theme">自定义样式</string>
+    <string name="title_activity_hide">应用中自动隐藏</string>
+    <string name="title_activity_quickcontrol">超级控制</string>
+    <string name="common_rate_app">给个好评</string>
+    <string name="common_team_apps">我们的更多APP</string>
+    <string name="zone_lockscreen_activate_device_admin">点击这里激活设备管理器\n注意：Zone锁屏可能会影响手机的指纹解锁功能</string>
+    <string name="zone_lockscreen_activate_device_admin_error">打开设备管理器失败</string>
+    <string name="zone_lockscreen_activate_device_admin_over">已激活设备管理器。\n【切记】激活设备管理器后可能无法正常卸载，需要到设置→安全和隐私→设备管理器中取消激活即可卸载。\n点我立即锁屏。</string>
+    <string name="zone_lockscreen_extra_explanation">激活设备管理器以使用“锁屏”功能</string>
+    
+    <string name="zone_screenshot_title">Zone截屏</string>
+    <string name="zone_screenshot_error_0">截屏成功</string>
+    <string name="zone_screenshot_error_1">错误:没有存储卡</string>
+    <string name="zone_screenshot_error_2">错误:保存图片文件失败</string>
+    <string name="zone_screenshot_error_3">错误:OutOfMemory</string>
+    <string name="zone_screenshot_error_4">错误:申请权限被拒绝</string>
+    <string name="zone_screenshot_notsupport_under_lollipop">不支持安卓5.0以下截屏</string>
+    <string name="zone_screenshot_notification_title">已捕获屏幕截图</string>
+    <string name="zone_screenshot_notification_content">触摸可查看您的屏幕截图。</string>
+    <string name="zone_screenshot_success">截屏成功</string>
+    
+    <string name="theme_category_icon">图标</string>
+    <string name="theme_category_background">背景</string>
+    <string name="theme_solid_color">实心颜色</string>
+    <string name="theme_corner_radius">圆角(%)</string>
+    <string name="theme_margin">边距(%)</string>
+    <string name="theme_stroke_color">描边颜色</string>
+    <string name="theme_storke_width">描边宽度(%)</string>
+    <string name="theme_backgroud_color">背景颜色</string>
+    <string name="theme_pressed_color">按下颜色</string>
+    
+    <string name="settings_category_customize_function">自定义菜单</string>
+    <string name="settings_category_customize_appearance">个性化</string>
+    <string name="settings_category_function_settings">功能设置</string>
+    <string name="settings_category_others">其他</string>
+    <string name="settings_title_enable">悬浮球开关</string>
+    <string name="settings_title_introductions">使用说明</string>
+    <string name="settings_title_extra_menu">启用第二层菜单</string>
+    <string name="settings_title_create_shortcut">为常用操作创建桌面快捷方式</string>
+    <string name="settings_title_showmenubar">显示顶部菜单栏</string>
+    <string name="settings_title_showmenutitle">滑选时显示菜单名称</string>
+    <string name="settings_title_size">大小(默认50)</string>
+    <string name="settings_title_fade">透明度(默认25%)</string>
+    <string name="settings_title_sensibility">滑选敏感度(ms)</string>
+    <string name="settings_title_deviceadmin">取消激活设备管理器</string>
+    <string name="settings_title_feedback">意见反馈</string>
+    <string name="settings_title_wechat">微信公众号</string>
+    <string name="settings_title_email">联系邮箱</string>
+    
+    <string name="settings_state_enabled">已启用</string>
+    <string name="settings_state_clicktoenable">点击来启用</string>
+    <string name="settings_content_intorductions">直接滑动悬浮球：不离手滑选菜单\n长按\"×\"按钮：隐藏到通知栏\n长按悬浮球：拖动位置</string><!-- 点击悬浮球：展开菜单\n -->
+    <string name="settings_description_five_seconds">受Android系统限制，在按下桌面键之后的约5秒内无法通过Zone悬浮球打开其他应用程序。</string>
+    <string name="settings_description_sensibility">不离手滑选多久后开始选择菜单，避免误触。</string>
+    
+    
+    <string name="dialog_title_select_func">菜单</string>
+    <string name="dialog_title_select_func_tab_perset">常用功能</string>
+    <string name="dialog_title_select_func_tab_application">应用程序</string>
+    <string name="dialog_title_select_func_tab_shortcut">快捷方式</string>
+    <string name="dialog_title_select_func_tab_shortcut_alert">注意：部分快捷方式可能无法正常打开</string>
+    <string name="dialog_title_select_func_loading_application">载入全部应用程序</string>
+    <string name="dialog_title_accessibillityservice">开启Zone悬浮球</string>
+    <string name="dialog_title_accessibillityservice_message_line0">开启Zone悬浮球的辅助功能(无障碍)</string>
+    <string name="dialog_title_accessibillityservice_message_line1">如图，点击「Zone悬浮球」，然后开启。</string>
+    
+    <string name="dialog_button_accessibillityservice">开启辅助功能(无障碍)</string>
+    <string name="dialog_title_"></string>
+    
+    <string name="dialog_button_ok">确定</string>
+    <string name="dialog_button_cancel">取消</string>
+    
+    <string name="perset_func_title_empty">[空]</string>
+   
+    <string-array name="perset_func_titles">
+        <item>悬浮球设置</item>
+        <item>打开通知栏</item>
+        <item>返回键</item>
+        <item>桌面键</item>
+        <item>任务键</item>
+        <item>相机</item>
+        <item>手电筒</item>
+        <item>上一个应用</item>
+        <item>锁屏</item>
+        <item>截屏(Android5.0+)</item>
+        <item>电源键长按菜单(Android5.0+)</item>
+        <item>菜单键(Root)</item>
+        <item>@string/cleanram_title</item>
+        <item>@string/cleanram_title_root</item>
+        <item>强制关闭当前程序(Root)</item>
+        <item>强制旋转</item>
+        <item>打开系统助手</item>
+        <item>@string/freezer_title</item>
+        <item>@string/freezer_command_freezeall</item>
+        <item>@string/freezer_command_freezeall_lockscreen</item>
+        <item>截屏(Root)</item>
+        <item>电源键锁屏(Root)</item>
+        <item>@string/volume_title</item>
+        <item>隐藏到通知栏</item>
+    </string-array>
+    
+    <string name="ovalpanel_close">关闭</string>
+    <string name="ovalpanel_hidetonotification">隐藏到通知栏</string>
+    <string name="ovalpanel_appsettings">悬浮球设置</string>
+    
+    <string name="notification_content_reshow">已隐藏到通知栏，点击恢复显示</string>
+    <string name="toast_dragtochangeposition">拖动悬浮球改变位置</string>
+    <string name="toast_perform_function_notsupport">您的安卓版本不支持该操作</string>
+    <string name="toast_perform_function_error">操作失败</string>
+    <string name="toast_previousapp_unknown">暂时未知上一个应用    </string>
+    <string name="toast_please_enable_accessibillityservice">请开启辅助功能“Zone悬浮球”</string>
+    <string name="toast_not_support_accessibillityservice">"无法正常打开辅助功能(无障碍)，您的手机禁用或阉割了这项功能。建议您升级手机系统。</string>
+    
+    <string name="toast_should_not_kill_system_app">我觉得你不应该关闭系统程序。</string>
+    <string name="toast_should_not_kill_myself">自杀？不是个好想法。</string>
+    <string name="toast_killing_foreground_app">正在关闭当前程序</string>
+    <string name="toast_kill_foreground_app_success">成功关闭当前程序</string>
+    
+    <string name="orientation_portrait">竖屏</string>
+    <string name="orientation_landscape">横屏</string>
+    <string name="orientation_reverse_portrait">反向竖屏</string>
+    <string name="orientation_reverse_landscape">反向横屏</string>
+    <string name="orientation_follow_system">跟随系统</string>
+    
+    <string name="toast_shortcut_picking">正在获取快捷方式</string>
+    <string name="toast_shortcut_success">已获取快捷方式</string>
+    <string name="toast_shortcut_failed">获取快捷方式失败</string>
+    <string name="toast">toast</string>
+    
+    <string name="screenshot_diagnosis_title">截屏诊断</string>
+    <string name="screenshot_diagnosis_message">如果截屏功能在您的设备上需要花费很长的时间，通过截屏诊断可抓取相关log提供给我们。在诊断完毕后log将被复制到剪贴板，您可以通过Email的方式向我们发送反馈，对您的支持表示感谢。</string>
+    <string name="toast_screenshot_diagnosis_over">截屏诊断log已复制到剪贴板</string>
+    
+    <string name="shortcut_received_a_new">Zone悬浮球检测到新的桌面快捷方式，可设置为菜单项</string>
+    <string name="shortcut_notification_content_text">点击来设置此快捷方式为菜单项</string>
+    <string name="shortcut_set_this_as_menu">设置此快捷方式为菜单项</string>
+    
+    <string name="settings_title_change_position">允许长按悬浮球移动位置</string>
+    <string name="settings_title_swipe_extra">允许不离手滑选第二层菜单</string>
+    
+    <string name="translation_project_title">翻译计划</string>
+</resources>

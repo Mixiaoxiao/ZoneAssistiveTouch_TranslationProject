@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="torch_title">Zone Torch</string>
+    
+    <string name="torch_type_flash">Flash</string>
+	<string name="torch_type_screen">Screen</string>
+	<string name="torch_screen_brightness">Screen Brightness</string>
+	<string name="torch_screen_notice">Some float-window may make \nscreen brightness settings invalid.</string>
+</resources>

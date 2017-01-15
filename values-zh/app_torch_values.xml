@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="torch_title">Zone手电</string>
+	<string name="torch_type_flash">闪光灯</string>
+	<string name="torch_type_screen">屏幕光</string>
+	<string name="torch_screen_brightness">屏幕光亮度</string>
+	<string name="torch_screen_notice">部分应用程序的悬浮窗会使屏幕光设置失效</string>
+</resources>

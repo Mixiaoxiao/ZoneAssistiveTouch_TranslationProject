@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cleanram_title">Clean Ram</string>
+    <string name="cleanram_title_root">Clean Ram(Root)</string>
+    <string name="cleanram_title_whitelist">Clean ram ignored apps</string>
+    <string name="cleanram_failed">failed</string>
+</resources>

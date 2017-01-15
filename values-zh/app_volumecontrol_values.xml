@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<string name="volume_title">音量控制</string>
+    <string name="volume_type_ringer">铃声和通知音量</string>
+    <string name="volume_type_media">媒体音量，音乐、视频、游戏等</string>
+    <string name="volume_type_alarm">闹钟音量</string>
+    <string name="volume_type_incall">语音通话音量</string>
+    <string name="volume_sound_settings">声音和震动设置</string>
+    
+</resources>

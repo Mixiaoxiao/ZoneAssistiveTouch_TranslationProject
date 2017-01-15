@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zone AssistiveTouch PRO</string>
+    <string name="zone_accessibilityservice_description">Click the switch at the TOP-RIGHT corner to enable Zone AssistiveTouch.</string>
+    <string name="feedback_hint">关注微信公众号“MixiaoxiaoTeam”，与我们直接交流~</string>
+    <string name="title_activity_lock_screen">Zone Lock</string>
+    <string name="title_activity_theme">Theme</string>
+    <string name="title_activity_hide">Hide in apps</string>
+    <string name="title_activity_quickcontrol">Quick Control</string>
+    <string name="common_rate_app">Rate</string>
+    <string name="common_team_apps">Our more apps</string>
+    <string name="zone_lockscreen_activate_device_admin">Click to activate device administrator.\nAttention: Zone Lock may influence the Fingerprint-unlock.</string>
+    <string name="zone_lockscreen_activate_device_admin_error">Error</string>
+    <string name="zone_lockscreen_activate_device_admin_over">Device administrator is activated.\nAttention: before you uninstall this app, you must deactivate device administrator in phone security settings.\n\nOK, just click me to lock screen.</string>
+    <string name="zone_lockscreen_extra_explanation">Activating this device administrator to allow Zone Lock to lock screen.</string>
+    <string name="zone_screenshot_title">Zone Screenshot</string>
+    <string name="zone_screenshot_error_0">success</string>
+    <string name="zone_screenshot_error_1">Error: no sdcard</string>
+    <string name="zone_screenshot_error_2">Error: can not save pic file</string>
+    <string name="zone_screenshot_error_3">Error: out of memory</string>
+    <string name="zone_screenshot_error_4">Error: permission denied</string>
+    <string name="zone_screenshot_notsupport_under_lollipop">Not support your system below Android5.0</string>
+    <string name="zone_screenshot_notification_title">Screenshot captured</string>
+    <string name="zone_screenshot_notification_content">Touch to view your screenshot.</string>
+    <string name="zone_screenshot_success">Screenshot captured</string>
+    
+    <string name="theme_category_icon">Icon</string>
+    <string name="theme_category_background">Background</string>
+    <string name="theme_solid_color">Solid color</string>
+    <string name="theme_corner_radius">Corner radius(%)</string>
+    <string name="theme_margin">Margin(%)</string>
+    <string name="theme_stroke_color">Stroke color</string>
+    <string name="theme_storke_width">Stroke width(%)</string>
+    <string name="theme_backgroud_color">Background color</string>
+    <string name="theme_pressed_color">Pressed color</string>
+    
+    <string name="settings_category_customize_function">Customize menu</string>
+    <string name="settings_category_customize_appearance">Customize appearance</string>
+    <string name="settings_category_function_settings">Function settings</string>
+    <string name="settings_category_others">Others</string>
+    <string name="settings_title_enable">Enable Zone AssistiveTouch</string>
+    <string name="settings_title_introductions">Introductions</string>
+    <string name="settings_title_extra_menu">Extra menus</string>
+    <string name="settings_title_create_shortcut">Create action shortcut in launcher</string>
+    <string name="settings_title_showmenubar">Show top Menu-bar</string>
+    <string name="settings_title_showmenutitle">Show title while swiping</string>
+    <string name="settings_title_size">Size(default:50)</string>
+    <string name="settings_title_fade">Opacity(default:25%)</string>
+    <string name="settings_title_sensibility">Swipe Sensibility(ms)</string>
+    <string name="settings_title_deviceadmin">Deactivate Device admin</string>
+    <string name="settings_title_feedback">Feedback</string>
+    <string name="settings_title_wechat">WeChat</string>
+    <string name="settings_title_email">Email</string>
+    <string name="settings_state_enabled">Enabled</string>
+    <string name="settings_state_clicktoenable">Click to enable</string>
+    <string name="settings_content_intorductions">Swipe touch-button to select menu\nLong press to change position\nLong press \"×\" to hide in notification</string><!-- Click to open menu panel\n -->
+    <string name="settings_description_five_seconds">Zone AssistiveTouch can NOT open any app in the first five seconds after Home-key pressed, due to Android\'s rule.</string>
+    <string name="settings_description_sensibility">Swipe how long to start select menu for preventing accidental touch.</string>
+    
+    <string name="dialog_title_select_func">MENU</string>
+    <string name="dialog_title_select_func_tab_perset">ACTION</string>
+    <string name="dialog_title_select_func_tab_application">APP</string>
+    <string name="dialog_title_select_func_tab_shortcut">SHORTCUT</string>
+    <string name="dialog_title_select_func_tab_shortcut_alert">Attention: some shortcuts might not be opened correctly</string>
+    <string name="dialog_title_select_func_loading_application">loading apps</string>
+    <string name="dialog_title_accessibillityservice">Enable Zone AssistiveTouch</string>
+    <string name="dialog_title_accessibillityservice_message_line0">Enable accessibillityservice of Zone AssistiveTouch</string>
+    <string name="dialog_title_accessibillityservice_message_line1">As picture, click \"Zone AssistiveTouch\" and enable.</string>
+    <string name="dialog_button_accessibillityservice">ACCESSIBILLITY</string>
+    <string name="dialog_title_"></string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    
+    <string name="perset_func_title_empty">[Empty]</string>
+
+    <string-array name="perset_func_titles">
+        <item>AssistiveTouch</item>
+        <item>Notification</item>
+        <item>Back key</item>
+        <item>Home key</item>
+        <item>Recents key</item>
+        <item>Camera</item>
+        <item>Torch</item>
+        <item>Previous app</item>
+        <item>Lock screen</item>
+        <item>Screenshot(Android5.0+)</item>
+        <item>Power dialog(Android5.0+)</item>
+        <item>Menu key(Root)</item>
+        <item>@string/cleanram_title</item>
+        <item>@string/cleanram_title_root</item>
+        <item>Kill Foreground App(Root)</item>
+        <item>Force Orientation</item>
+        <item>Launch Assistant</item>
+        <item>@string/freezer_title</item>
+        <item>@string/freezer_command_freezeall</item>
+        <item>@string/freezer_command_freezeall_lockscreen</item>
+        <item>Screenshot(Root)</item>
+        <item>Power key(Root)</item>
+        <item>@string/volume_title</item>
+        <item>Hide in notification</item>
+    </string-array>
+
+    <string name="ovalpanel_close">Close</string>
+    <string name="ovalpanel_hidetonotification">Hide</string>
+    <string name="ovalpanel_appsettings">Settings</string>
+    <string name="notification_content_reshow">Click to show AssistiveTouch</string>
+    <string name="toast_dragtochangeposition">Drag the circle to change position</string>
+    <string name="toast_perform_function_error">Perform function error</string>
+    <string name="toast_perform_function_notsupport">Your device system is not support this function</string>
+    <string name="toast_previousapp_unknown">Yet know the previous application</string>
+    <string name="toast_please_enable_accessibillityservice">Please enable accessibillityservice of Zone AssistiveTouch</string>
+    <string name="toast_not_support_accessibillityservice">Your device does not support accessibillityservice</string>
+    
+    <string name="toast_should_not_kill_system_app">I do not think you should kill system app.</string>
+    <string name="toast_should_not_kill_myself">To kill myself? Oh, it is not a good thing.</string>
+    <string name="toast_killing_foreground_app">killing...</string>
+    <string name="toast_kill_foreground_app_success">kill success</string>
+    
+    <string name="orientation_portrait">Portrait</string>
+    <string name="orientation_landscape">Landscape</string>
+    <string name="orientation_reverse_portrait">Reversed Portrait</string>
+    <string name="orientation_reverse_landscape">Reverse Landscape</string>
+    <string name="orientation_follow_system">Follow System</string>
+    
+    <string name="toast_shortcut_picking">Picking shortcut</string>
+    <string name="toast_shortcut_success">Pick the shortcut successfully</string>
+    <string name="toast_shortcut_failed">Failed to pick the shortcut</string>
+    <string name="toast">toast</string>
+
+    <string name="screenshot_diagnosis_title">Screenshot Diagnosis</string>
+    <string name="screenshot_diagnosis_message">If screenshot function takes a long time on your device, use this diagnosis to get some log for our developers. When diagnosis is over the log will be copied in clipboard and you can send the log to us by email, thanks a lot.</string>
+    <string name="toast_screenshot_diagnosis_over">Screenshot diagnosis log is copied in clipboard</string>
+    
+    
+    <string name="shortcut_received_a_new">Zone AssistiveTouch received a new shortcut, you can set this as a menu</string>
+    <string name="shortcut_notification_content_text">Click to set this shortcut as a menu</string>
+    <string name="shortcut_set_this_as_menu">Set this shortcut as a menu</string>
+    
+    <string name="settings_title_change_position">Long press to change position</string>
+    <string name="settings_title_swipe_extra">Swipe to select extra menus</string>
+    
+    <string name="translation_project_title">Translation Project</string>
+    
+</resources>
