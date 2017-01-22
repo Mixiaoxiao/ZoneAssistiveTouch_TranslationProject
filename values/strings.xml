@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Zone AssistiveTouch PRO</string>
-    <string name="zone_accessibilityservice_description">Click the switch at the TOP-RIGHT corner to enable Zone AssistiveTouch.</string>
+    <string name="zone_accessibilityservice_description">Click the switch at the TOP-RIGHT corner to enable Zone AssistiveTouch.\nIf the float-button does not show, you need to grant the \"Draw over other apps(Display pop-up window)\" permission.</string>
     <string name="feedback_hint">关注微信公众号“MixiaoxiaoTeam”，与我们直接交流~</string>
     <string name="title_activity_lock_screen">Zone Lock</string>
     <string name="title_activity_theme">Theme</string>
@@ -10,7 +10,7 @@
     <string name="title_activity_quickcontrol">Quick Control</string>
     <string name="common_rate_app">Rate</string>
     <string name="common_team_apps">Our more apps</string>
-    <string name="zone_lockscreen_activate_device_admin">Click to activate device administrator.\nAttention: Zone Lock may influence the Fingerprint-unlock.</string>
+    <string name="zone_lockscreen_activate_device_admin">Click to activate device administrator.\n【Attention】Using Zone Lock may disable the Fingerprint-unlock, and the device administrator may can NOT be deactivated on some devices. Please be cautious.</string>
     <string name="zone_lockscreen_activate_device_admin_error">Error</string>
     <string name="zone_lockscreen_activate_device_admin_over">Device administrator is activated.\nAttention: before you uninstall this app, you must deactivate device administrator in phone security settings.\n\nOK, just click me to lock screen.</string>
     <string name="zone_lockscreen_extra_explanation">Activating this device administrator to allow Zone Lock to lock screen.</string>
@@ -54,7 +54,7 @@
     <string name="settings_title_email">Email</string>
     <string name="settings_state_enabled">Enabled</string>
     <string name="settings_state_clicktoenable">Click to enable</string>
-    <string name="settings_content_intorductions">Swipe touch-button to select menu\nLong press to change position\nLong press \"×\" to hide in notification</string><!-- Click to open menu panel\n -->
+    <string name="settings_content_intorductions">Swipe float-button to select menu\nLong press to change position\nLong press \"×\" to hide in notification</string><!-- Click to open menu panel\n -->
     <string name="settings_description_five_seconds">Zone AssistiveTouch can NOT open any app in the first five seconds after Home-key pressed, due to Android\'s rule.</string>
     <string name="settings_description_sensibility">Swipe how long to start select menu for preventing accidental touch.</string>
     
@@ -139,7 +139,8 @@
     
     <string name="settings_title_change_position">Long press to change position</string>
     <string name="settings_title_swipe_extra">Swipe to select extra menus</string>
-    
+    <!-- v1.9.5 -->
     <string name="translation_project_title">Translation Project</string>
+    <string name="settings_title_vibrate">Vibrate</string>
     
 </resources>

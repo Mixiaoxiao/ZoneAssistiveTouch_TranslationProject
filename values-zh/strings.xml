@@ -9,7 +9,7 @@
     <string name="title_activity_quickcontrol">超级控制</string>
     <string name="common_rate_app">给个好评</string>
     <string name="common_team_apps">我们的更多APP</string>
-    <string name="zone_lockscreen_activate_device_admin">点击这里激活设备管理器\n注意：Zone锁屏可能会影响手机的指纹解锁功能</string>
+    <string name="zone_lockscreen_activate_device_admin">点击这里激活设备管理器\n注意：Zone锁屏可能会影响手机的指纹解锁功能，在某些手机中无法取消激活设备管理器。请谨慎使用。</string>
     <string name="zone_lockscreen_activate_device_admin_error">打开设备管理器失败</string>
     <string name="zone_lockscreen_activate_device_admin_over">已激活设备管理器。\n【切记】激活设备管理器后可能无法正常卸载，需要到设置→安全和隐私→设备管理器中取消激活即可卸载。\n点我立即锁屏。</string>
     <string name="zone_lockscreen_extra_explanation">激活设备管理器以使用“锁屏”功能</string>
@@ -145,4 +145,5 @@
     <string name="settings_title_swipe_extra">允许不离手滑选第二层菜单</string>
     
     <string name="translation_project_title">翻译计划</string>
+    <string name="settings_title_vibrate">震动反馈</string>
 </resources>
